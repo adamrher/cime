@@ -256,7 +256,9 @@
       <value compset=".+" grid="a%C96">48</value>
       <value compset=".+" grid="a%C192">96</value>
       <value compset=".+" grid="a%C384">192</value>
-      <value compset=".+" grid="a%T42">72</value>
+      <!-- ARH - change SCAM/T42 ATM_NCPL=72->96 
+      <value compset=".+" grid="a%T42">72</value> -->
+      <value compset=".+" grid="a%T42">96</value>
       <value compset=".+" grid="a%T85">144</value>
       <value compset=".+" grid="a%T341">288</value>
       <value compset=".+" grid="1x1">48</value>
